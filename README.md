@@ -1,7 +1,6 @@
 # Olá, Mundo!
  primeiro repositorio
 
+criado no curso em video
 
-
-ruizinho
-criado no curso em videoruinzinho
+modificação em teste
